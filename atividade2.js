@@ -4,7 +4,7 @@ const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout
 });
-
+//coiso
 rl.question('Digite um número para ver a tabuada: ', (input) => {
   const numero = parseInt(input);
   
